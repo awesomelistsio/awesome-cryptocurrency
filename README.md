@@ -72,6 +72,7 @@
 - **[Glassnode](https://glassnode.com/)** - Provides on-chain data and metrics for various cryptocurrencies.
 - **[IntoTheBlock](https://app.intotheblock.com/)** - An analytics platform offering insights into crypto markets and trends.
 - **[Messari Crypto Screener](https://messari.io/screener)** - A tool for filtering and analyzing crypto assets.
+- **[Bitcoin Bottom Score](https://bitcoinbottom.app)** - Free Bitcoin market cycle bottom probability tracker aggregating 25 on-chain signals (MVRV Z-Score, Puell Multiple, Hash Ribbon, Fear & Greed, and more) into a daily score.
 
 ## Crypto Development
 
