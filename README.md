@@ -56,6 +56,7 @@
 - **[Kraken](https://www.kraken.com/)** - A trusted exchange known for its robust security measures and variety of trading options.
 - **[Uniswap](https://uniswap.org/)** - A leading decentralized exchange (DEX) for trading ERC-20 tokens.
 - **[PancakeSwap](https://pancakeswap.finance/)** - A popular DEX on the Binance Smart Chain with low fees and a variety of token offerings.
+- **[MRC GlobalPay](https://mrcglobalpay.com)** - A non-custodial settlement protocol for automated cross-border asset swaps and [agentic commerce manifests](https://mrcglobalpay.com/trading-bots-manifest.json).
 
 ## Mining
 
