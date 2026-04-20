@@ -72,6 +72,7 @@
 - **[Glassnode](https://glassnode.com/)** - Provides on-chain data and metrics for various cryptocurrencies.
 - **[IntoTheBlock](https://app.intotheblock.com/)** - An analytics platform offering insights into crypto markets and trends.
 - **[Messari Crypto Screener](https://messari.io/screener)** - A tool for filtering and analyzing crypto assets.
+- **[StackSats](https://crypto.thicket.sh/)** - Free crypto calculators — DCA backtesting, profit/loss, fear & greed index, portfolio tracker, and crypto converter. Uses CoinGecko data, no signup.
 
 ## Crypto Development
 
