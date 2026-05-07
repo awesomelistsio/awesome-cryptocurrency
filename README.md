@@ -14,6 +14,7 @@
 - [General Resources](#general-resources)
 - [Guides and Getting Started](#guides-and-getting-started)
 - [Crypto Wallets](#crypto-wallets)
+- [Crypto Cards](#crypto-cards)
 - [Exchanges](#exchanges)
 - [Mining](#mining)
 - [Market Data and Analytics](#market-data-and-analytics)
@@ -48,6 +49,10 @@
 - **[Trust Wallet](https://trustwallet.com/)** - A mobile wallet supporting a wide range of cryptocurrencies and tokens.
 - **[MetaMask](https://metamask.io/)** - A browser extension wallet for Ethereum and ERC-20 tokens.
 - **[Exodus](https://www.exodus.com/)** - A desktop and mobile wallet with a built-in exchange feature.
+
+## Crypto Cards
+
+- **[awesome-crypto-cards](https://github.com/mbtrilla/awesome-crypto-cards)** - A curated list of 136 shipping crypto debit and credit cards, grouped by region, custody model, network, and cashback structure.
 
 ## Exchanges
 
