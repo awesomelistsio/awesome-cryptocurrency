@@ -72,6 +72,7 @@
 - **[Glassnode](https://glassnode.com/)** - Provides on-chain data and metrics for various cryptocurrencies.
 - **[IntoTheBlock](https://app.intotheblock.com/)** - An analytics platform offering insights into crypto markets and trends.
 - **[Messari Crypto Screener](https://messari.io/screener)** - A tool for filtering and analyzing crypto assets.
+[CoinPrediction.ai](https://coinprediction.ai) - AI-powered crypto analysis platform covering price predictions for 60+ major cryptocurrencies, Solana meme coin scanner, market analysis articles, and educational content. Free.
 
 ## Crypto Development
 
