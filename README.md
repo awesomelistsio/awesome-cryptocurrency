@@ -72,6 +72,7 @@
 - **[Glassnode](https://glassnode.com/)** - Provides on-chain data and metrics for various cryptocurrencies.
 - **[IntoTheBlock](https://app.intotheblock.com/)** - An analytics platform offering insights into crypto markets and trends.
 - **[Messari Crypto Screener](https://messari.io/screener)** - A tool for filtering and analyzing crypto assets.
+- **[Web3 Discover](https://web3-discover.vercel.app)** - A hand-vetted directory of currently-claimable crypto airdrops; deadline-sorted with cost floor and risk flag per entry. No paid listings.
 
 ## Crypto Development
 
