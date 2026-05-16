@@ -72,6 +72,7 @@
 - **[Glassnode](https://glassnode.com/)** - Provides on-chain data and metrics for various cryptocurrencies.
 - **[IntoTheBlock](https://app.intotheblock.com/)** - An analytics platform offering insights into crypto markets and trends.
 - **[Messari Crypto Screener](https://messari.io/screener)** - A tool for filtering and analyzing crypto assets.
+- [Pharos](https://pharos.watch/) — Open-source stablecoin analytics dashboard covering peg stress, DEX liquidity, safety scores, blacklist events, mint/burn flows, and stablecoin failures.
 
 ## Crypto Development
 
